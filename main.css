@@ -1,9 +1,90 @@
+.headerNav{
+    background-color: #4e8ff0;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+    }
+ 
+.links a{
+    text-decoration: none;
+    font-size: 2em;
+    color: #fff;
+}
+i{
+    font-size: 2em;
+    color: #fff;
+}
+#gallery img{
+    width: 625px;
+    height: 446px;
+}
+#hero_d{
+    background-image: url("https://www.passengertravel.com/files/IMG_552_1647867573.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 #subscr{
-    background-color: aquamarine;
+    background-image: linear-gradient(to top,#3586ff,white);
     padding: 0% 20%;
     text-align: center;
+    
+    padding: 10px 0;
+}
+#forma h2{
+    font-size: 2em;
+}
+#forma p{
+    font-size: 1.5em;
 }
 input{
-    padding: 20px;
+    padding: 20px 50px;
     margin: 5px;
+    font-size: 1.2em;
+    border-radius: 50px;
+}
+footer{
+    position: relative;
+    width: 100%;
+    padding: 20px 50px;
+    background-color: #3586ff;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-direction: row;
+    /* margin-top: 100px;*/
+} 
+#social_icons, #footerNav{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+#social_icons a{
+    font-size: 1.2em;
+    color: #fff;
+    margin: 0 10px;
+    display: inline-block;
+  
+}
+#footerNav a{
+    font-size: 1.2em;
+    color: #fff;
+    opacity: 0.75;
+    margin: 0 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+#footerNav a:hover{
+    opacity: 1;
+}
+footer p{
+    color: #fff;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1.2em;
 }

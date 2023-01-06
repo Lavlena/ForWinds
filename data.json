@@ -1,0 +1,65 @@
+{
+    "tours":[
+        {
+            "images":"https://img.alladyn.io/hotel/2762/02_dji_0127_186_middle.jpg",
+            "country":"Adele, Crete-Rethymno",
+            "city":"Greece",
+            "price":"480 €",
+            "duration":"4 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/17826/MAIN_VIEW_4649.jpg",
+            "country":"Konakli, Incekum - Alanya",
+            "city":"Turkey",
+            "price":"565 €",
+            "duration":"5 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/20909/WEB-drone-Tropea-le-Muse-1-1024x682_3289.jpg",
+            "country":"Zambrone, Calabria - tyrrhenian Coast",
+            "city":"Italy",
+            "price":"687 €",
+            "duration":"7 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/7010180/General_2_7597.jpg",
+            "country":"Puerto de santiago, Tenerife Sur",
+            "city":"Spain",
+            "price":"1107 €",
+            "duration":"8 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/1449/43_2451.jpg",
+            "country":"Sahl hasheesh, Sahl Hasheesh",
+            "city":"Egypt",
+            "price":"1638 €",
+            "duration":"11 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/7000077/Melia_Grand_Hermitage_Exterior__7__9336.jpg",
+            "country":"Golden sands, Golden Sands",
+            "city":"Bulgaria",
+            "price":"738 €",
+            "duration":"7 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/3584/DSC_2746_HP_6438.JPG",
+            "country":"Bad Gastein, Gasteinertal",
+            "city":"Austria",
+            "price":"558 €",
+            "duration":"7 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/2762/02_dji_0127_186_middle.jpg",
+            "country":"Funchal, Madeira",
+            "city":"Portugal",
+            "price":"931 €",
+            "duration":"7 nights"
+        },{
+            "images":"https://www.teztour.lt/static/photos/pages/500/88/889/4151479775a27ec4886c71.jpg",
+            "country":"Dubai",
+            "city":"UAE",
+            "price":"660 €",
+            "duration":"7 nights"
+        },{
+            "images":"https://img.alladyn.io/hotel/4040/Winteransicht_von_Esplanade_1_2368.jpg",
+            "country":"Kaprun",
+            "city":"Austria",
+            "price":"1317 €",
+            "duration":"7 nights"
+        }
+    ]
+}

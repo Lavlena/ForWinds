@@ -14,10 +14,26 @@ i{
     font-size: 2em;
     color: #fff;
 }
+/* #gallery{
+    display: inline-block;
+    overflow: hidden;
+} */
 #gallery img{
     width: 625px;
     height: 446px;
+    transition: all 1s ease;
+    /* display: block; */
 }
+#gallery img:hover{
+    filter: blur(20px);
+    filter: drop-shadow(5px 6px 4px rgba(0,0,0,0.5));
+     /* filter: grayscale(80%);  */
+     /* filter: opacity(50%); */ 
+    transform: scale(1.2);
+    /* transform: skew(10deg) */
+     /* rotate(10deg) */
+     /* scale(1.2);  */
+} 
 #hero_d{
     background-image: url("https://www.passengertravel.com/files/IMG_552_1647867573.jpg");
     height: 800px;
